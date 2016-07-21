@@ -19,6 +19,9 @@ int main(void) {
 
 	printf("teste para merge no git");
 	printf("teste de merge");
+	printf("test stash");
+	printf("test stash2");
+
 
 	return EXIT_SUCCESS;
 }
