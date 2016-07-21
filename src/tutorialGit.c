@@ -16,5 +16,8 @@ int main(void) {
 	for (int var = 0; var < 10; ++var) {
 		puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
 	}
+
+	printf("teste para merge no git");
+
 	return EXIT_SUCCESS;
 }
