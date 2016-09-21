@@ -19,6 +19,7 @@ int main(void) {
 
 	printf("teste para merge no git");
 	printf("teste de merge");
+	printf("test of ammend - 2");
 
 	return EXIT_SUCCESS;
 }
